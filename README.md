@@ -6,3 +6,10 @@ This project contains my learning HTML, CSS, and other web technologies.
 - Tags
 - Elements
  -Boilerplate
+
+ ## Day 
+- HTML attributes
+- Lists
+- Anchor Element
+- Image Element
+
